@@ -16,6 +16,6 @@ Your file server should meet the following requirements:  </br>
 6) Create a forms Input group through Bootstrap and it must have Sizing set to Small.  </br>
 7) Suppose you have three h2 tags, now you have to place the h2 three horizontally. And it must be in reverse. How to do it with bootstrap. (Hints: flex-row-reverse)  </br>
 
-Website view: </br>
+## Website view: </br>
 
 <img src="https://github.com/Sefayet-Alam/MERN_Stack_Project_01_OSTAD/blob/main/ss_1.png">
