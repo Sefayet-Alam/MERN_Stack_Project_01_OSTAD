@@ -18,4 +18,4 @@ Your file server should meet the following requirements:  </br>
 
 Website view: </br>
 
-<img src="https://github.com/Sefayet-Alam/MERN_Stack_Project_01_OSTAD/blob/main/ss_01.png">
+<img src="https://github.com/Sefayet-Alam/MERN_Stack_Project_01_OSTAD/blob/main/ss_1.png">
